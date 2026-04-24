@@ -19,9 +19,8 @@ this project should people who work with svelte daily start agentic-coding-ready
 
 ### Component Collections
 
-[Svelte Animations](https://github.com/SikandarJODD/svelte-animations): Gallery of copy-paste micro-interactions built with Svelte Motion + Tailwind. Pretty useful when you need something quick and don't want to build from scratch
-
-[Motion Core](https://github.com/Motion-Core/motion-core): A set of Svelte 5 motion components (including animated backgrounds to 3D effects), delivered with a copy-paste architecture instead of heavy dependencies. 
+- [Svelte Animations](https://animation-svelte.vercel.app/): Gallery of copy-paste micro-interactions built with Svelte Motion + Tailwind. 
+- [Motion Core](https://github.com/Motion-Core/motion-core): A set of Svelte 5 motion components (including animated backgrounds to 3D effects), delivered with a copy-paste architecture instead of heavy dependencies. 
 
 ### Scroll & Viewport Detection
 
